@@ -1,10 +1,10 @@
 # linkShortener
 
-# Description
+## Description
 This code compresses the given link length and creates a shorter, more user friendl link.
 
-# Requirements
+## Requirements
 To run the code, pyshorteners module must be installed.
 
-# Execution
+## Execution
 Directly from the terminal
